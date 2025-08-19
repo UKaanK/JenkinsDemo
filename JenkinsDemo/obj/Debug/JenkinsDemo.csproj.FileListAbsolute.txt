@@ -1,0 +1,7 @@
+C:\Users\Casper EXCALIBUR\source\repos\JenkinsDemo\JenkinsDemo\bin\Debug\JenkinsDemo.exe.config
+C:\Users\Casper EXCALIBUR\source\repos\JenkinsDemo\JenkinsDemo\bin\Debug\JenkinsDemo.exe
+C:\Users\Casper EXCALIBUR\source\repos\JenkinsDemo\JenkinsDemo\bin\Debug\JenkinsDemo.pdb
+C:\Users\Casper EXCALIBUR\source\repos\JenkinsDemo\JenkinsDemo\obj\Debug\JenkinsDemo.csproj.AssemblyReference.cache
+C:\Users\Casper EXCALIBUR\source\repos\JenkinsDemo\JenkinsDemo\obj\Debug\JenkinsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Casper EXCALIBUR\source\repos\JenkinsDemo\JenkinsDemo\obj\Debug\JenkinsDemo.exe
+C:\Users\Casper EXCALIBUR\source\repos\JenkinsDemo\JenkinsDemo\obj\Debug\JenkinsDemo.pdb
