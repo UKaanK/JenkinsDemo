@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Casper EXCALIBUR\\source\\repos\\JenkinsDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{916A43D2-E28A-4B96-9D56-F1878004DAE5}|JenkinsDemo\\JenkinsDemo.csproj|c:\\users\\casper excalibur\\source\\repos\\jenkinsdemo\\jenkinsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{916A43D2-E28A-4B96-9D56-F1878004DAE5}|JenkinsDemo\\JenkinsDemo.csproj|solutionrelative:jenkinsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9A60E160-A5BE-4FF7-A138-42639B69E849}|JenkinsDemoUnitTest\\JenkinsDemoUnitTest.csproj|c:\\users\\casper excalibur\\source\\repos\\jenkinsdemo\\jenkinsdemounittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A60E160-A5BE-4FF7-A138-42639B69E849}|JenkinsDemoUnitTest\\JenkinsDemoUnitTest.csproj|solutionrelative:jenkinsdemounittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916A43D2-E28A-4B96-9D56-F1878004DAE5}|JenkinsDemo\\JenkinsDemo.csproj|C:\\Users\\Casper EXCALIBUR\\source\\repos\\JenkinsDemo\\jenkinsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916A43D2-E28A-4B96-9D56-F1878004DAE5}|JenkinsDemo\\JenkinsDemo.csproj|solutionrelative:jenkinsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\Casper EXCALIBUR\\source\\repos\\JenkinsDemo\\JenkinsDemoUnitTest\\UnitTest1.cs",
               "RelativeDocumentMoniker": "JenkinsDemoUnitTest\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\Casper EXCALIBUR\\source\\repos\\JenkinsDemo\\JenkinsDemoUnitTest\\UnitTest1.cs",
               "RelativeToolTip": "JenkinsDemoUnitTest\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T15:35:52.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Casper EXCALIBUR\\source\\repos\\JenkinsDemo\\JenkinsDemo\\Program.cs",
               "RelativeDocumentMoniker": "JenkinsDemo\\Program.cs",
@@ -43,8 +43,7 @@
               "RelativeToolTip": "JenkinsDemo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:31:25.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T15:31:25.951Z"
             }
           ]
         }
